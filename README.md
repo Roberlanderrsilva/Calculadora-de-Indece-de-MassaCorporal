@@ -1,4 +1,4 @@
-# Calcula o Indece de Massa Corporal comparando o PESO x ALTURA
+# Calcula o Indice de Massa Corporal comparando o PESO x ALTURA
 Ajuda verificar se seu peso está de acordo com o ideal, e mostra uma das mensagens Abaixo:
 -Muito abaixo do peso
 -Abaixo do peso
